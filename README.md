@@ -56,8 +56,3 @@ Made with 💻 and 🎮 by Musa Qureshi
 Live - [Play](https://musa-qureshi-01.github.io/Sanke_Game/)
 
 ---
-
-Would you like me to:
-- Export this as a `.md`, `.pdf`, or `.txt` file?
-- Add GitHub badges (e.g., Stars, Forks, License)?
-- Help you publish it as a live playable version via **GitHub Pages**?
