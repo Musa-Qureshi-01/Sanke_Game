@@ -44,15 +44,16 @@ Open index.html in your desktop browser.
 
 - Enjoy sound cues for each action!
 
-### 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repo, enhance the game, fix bugs, or add new features.
 Open a pull request with your changes.
 
-### 📄 License
+## 📄 License
 This project is licensed under the MIT License – free to use, modify, and share.
 
 Made with 💻 and 🎮 by Musa Qureshi
+Live - [Play](https://musa-qureshi-01.github.io/Sanke_Game/)
 
 ---
 
